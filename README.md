@@ -19,3 +19,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.# ScannyMark-
 Verification badge
+## Commercial License
+
+While this project is available under the MIT License for community and non‑commercial use, 
+enterprises or organizations deploying ScannyMark‑Verification in production environments 
+must obtain a commercial license.
+
+The commercial license grants:
+- Priority support and maintenance
+- Warranty and liability coverage
+- Permission for closed‑source derivative works
+- Access to premium features and enterprise integration
+
+Commercial licenses are available directly from the author (G.Dzubinsky Snr).
+Unauthorized commercial use outside the MIT terms is prohibited.
