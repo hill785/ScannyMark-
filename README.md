@@ -1,6 +1,6 @@
-# ScannyMark‑Verification Badge
+# ScannyMark‑Verification Badge™
 
-Scanny™ Sovereign Verification Badge with embedded MintProofDAO 436351437 and LedgerProofDAO 430 seals.  
+Scanny™ Sovereign Verification Badge with embedded MintProofDAO 436351437 and LedgerProofDAO 430 seals.  rooted in Monument 436351437
 This repository contains the source code and assets for the ScannyMark verification system.
 
 ---
